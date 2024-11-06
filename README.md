@@ -65,3 +65,11 @@ This project includes tests for the application. To run the tests, follow these 
 - ``` bash
   pytest tests/query_test.py
   ```
+## Can test using POSTMAN
+### POST 
+  ![Screenshot 2024-11-07 014422](https://github.com/user-attachments/assets/c28ec28a-5674-4fed-82f3-5cb2005a14b2)
+
+### GET
+ ![Screenshot 2024-11-07 015142](https://github.com/user-attachments/assets/e94bbc5b-c481-42d2-8a3c-5bf90044cf2b)
+![Screenshot 2024-11-07 015050](https://github.com/user-attachments/assets/dbeeda0d-fa8b-4207-96d9-53fcfcf53b37)
+![Screenshot 2024-11-07 015012](https://github.com/user-attachments/assets/68778f3e-53ec-4002-ba26-23eab5a0a4ca)
