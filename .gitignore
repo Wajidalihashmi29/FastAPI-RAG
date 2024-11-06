@@ -1,0 +1,22 @@
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Test results
+.pytest_cache/
+
+# IDE-specific files
+*.idea/
+*.vscode/
+
+# Other generated files
+*.log
+*.out
+*.tmp
+*.bak
+
+# This is just a basic example, you can add other files and directories to ignore as needed. 
