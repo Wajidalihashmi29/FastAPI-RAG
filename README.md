@@ -57,3 +57,11 @@ pip install -r requirements.txt
 ```bash
 uvicorn app.main:app --reload
 ```
+## Running Tests
+This project includes tests for the application. To run the tests, follow these steps:
+- ``` bash
+  pytest tests/test_app.py
+  ```
+- ``` bash
+  pytest tests/query_test.py
+  ```
